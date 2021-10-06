@@ -1,0 +1,7 @@
+D:\OL04\M3\Class 22\OL04_M3_Class_22_Works\OL04_M3_Class_22_Work_01\obj\Debug\OL04_M3_Class_22_Work_01.csproj.AssemblyReference.cache
+D:\OL04\M3\Class 22\OL04_M3_Class_22_Works\OL04_M3_Class_22_Work_01\obj\Debug\OL04_M3_Class_22_Work_01.csproj.CoreCompileInputs.cache
+D:\OL04\M3\Class 22\OL04_M3_Class_22_Works\OL04_M3_Class_22_Work_01\bin\Debug\OL04_M3_Class_22_Work_01.exe.config
+D:\OL04\M3\Class 22\OL04_M3_Class_22_Works\OL04_M3_Class_22_Work_01\bin\Debug\OL04_M3_Class_22_Work_01.exe
+D:\OL04\M3\Class 22\OL04_M3_Class_22_Works\OL04_M3_Class_22_Work_01\bin\Debug\OL04_M3_Class_22_Work_01.pdb
+D:\OL04\M3\Class 22\OL04_M3_Class_22_Works\OL04_M3_Class_22_Work_01\obj\Debug\OL04_M3_Class_22_Work_01.exe
+D:\OL04\M3\Class 22\OL04_M3_Class_22_Works\OL04_M3_Class_22_Work_01\obj\Debug\OL04_M3_Class_22_Work_01.pdb
